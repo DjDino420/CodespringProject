@@ -9,19 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="661b0c5f-e5be-444e-89da-954544ab05bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Controllers/IngredientController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/DTOs.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Repositories/Implementations/IngredientRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Repositories/Interfaces/IIngredientRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Services/Implementations/IngredientService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Services/Interfaces/IIngredientService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationDbContext.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodespringProject.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CodespringProject.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodespringProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodespringProject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Services/Implementations/RecipeService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Implementations/RecipeService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Services/Interfaces/IRecipeService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Interfaces/IRecipeService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +29,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Controllers/RecipeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Services/Interfaces/IRecipeService.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -54,22 +44,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.CodespringProject: IIS Express.executor": "Run",
-    ".NET Launch Settings Profile.CodespringProject: http.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.codeium.enabled": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.CodespringProject: IIS Express.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Launch Settings Profile.CodespringProject: http.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;recipe-web-api&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.CodespringProject: http">
     <configuration name="CodespringProject: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/CodespringProject.csproj" />
@@ -127,7 +117,10 @@
       <workItem from="1740829678905" duration="5851000" />
       <workItem from="1740837103432" duration="2432000" />
       <workItem from="1741005061849" duration="332000" />
-      <workItem from="1741697507422" duration="1425000" />
+      <workItem from="1741697507422" duration="1672000" />
+      <workItem from="1741706385224" duration="146000" />
+      <workItem from="1741859071027" duration="2195000" />
+      <workItem from="1741943613952" duration="1515000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <option name="closed" value="true" />
